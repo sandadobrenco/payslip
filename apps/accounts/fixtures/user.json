@@ -1,0 +1,22 @@
+[
+  {"model":"accounts.user","pk":1,"fields":{"username":"alex.popescu","first_name":"Alex","last_name":"Popescu","cnp":"1950110229210","email":"alex.popescu@gmail.com","is_manager":true,"manager":null,"is_active":true,"is_staff":true,"is_superuser":true}},
+  {"model":"accounts.user","pk":2,"fields":{"username":"maria.ionescu","first_name":"Maria","last_name":"Ionescu","cnp":"6040522195622","email":"maria.ionescu@gmail.com","is_manager":true,"manager":1,"is_active":true}},
+  {"model":"accounts.user","pk":3,"fields":{"username":"andrei.georgescu","first_name":"Andrei","last_name":"Georgescu","cnp":"1990418409771","email":"andrei.georgescu@gmail.com","is_manager":true,"manager":1,"is_active":true}},
+  {"model":"accounts.user","pk":4,"fields":{"username":"ioana.dobre","first_name":"Ioana","last_name":"Dobre","cnp":"6020315139916","email":"ioana.dobre@gmail.com","is_manager":true,"manager":2,"is_active":true}},
+  {"model":"accounts.user","pk":5,"fields":{"username":"vlad.stan","first_name":"Vlad","last_name":"Stan","cnp":"1700403015196","email":"vlad.stan@gmail.com","is_manager":false,"manager":3,"is_active":true}},
+  {"model":"accounts.user","pk":6,"fields":{"username":"elena.marin","first_name":"Elena","last_name":"Marin","cnp":"2930722128597","email":"elena.marin@gmail.com","is_manager":false,"manager":1,"is_active":true}},
+  {"model":"accounts.user","pk":7,"fields":{"username":"radu.dumitrescu","first_name":"Radu","last_name":"Dumitrescu","cnp":"1850224045095","email":"radu.dumitrescu@gmail.com","is_manager":false,"manager":2,"is_active":true}},
+  {"model":"accounts.user","pk":8,"fields":{"username":"bianca.petrescu","first_name":"Bianca","last_name":"Petrescu","cnp":"2821016117391","email":"bianca.petrescu@gmail.com","is_manager":false,"manager":4,"is_active":true}},
+  {"model":"accounts.user","pk":9,"fields":{"username":"sorin.ene","first_name":"Sorin","last_name":"Ene","cnp":"5011010089527","email":"sorin.ene@gmail.com","is_manager":false,"manager":3,"is_active":true}},
+  {"model":"accounts.user","pk":10,"fields":{"username":"cristina.matei","first_name":"Cristina","last_name":"Matei","cnp":"2760118216815","email":"cristina.matei@gmail.com","is_manager":false,"manager":3,"is_active":true}},
+  {"model":"accounts.user","pk":11,"fields":{"username":"mihai.pavel","first_name":"Mihai","last_name":"Pavel","cnp":"5070812266588","email":"mihai.pavel@gmail.com","is_manager":false,"manager":4,"is_active":true}},
+  {"model":"accounts.user","pk":12,"fields":{"username":"oana.rusu","first_name":"Oana","last_name":"Rusu","cnp":"2780205266551","email":"oana.rusu@gmail.com","is_manager":false,"manager":1,"is_active":true}},
+  {"model":"accounts.user","pk":13,"fields":{"username":"dan.ilie","first_name":"Dan","last_name":"Ilie","cnp":"1980930527266","email":"dan.ilie@gmail.com","is_manager":false,"manager":2,"is_active":true}},
+  {"model":"accounts.user","pk":14,"fields":{"username":"laura.toma","first_name":"Laura","last_name":"Toma","cnp":"2870319225137","email":"laura.toma@gmail.com","is_manager":false,"manager":3,"is_active":true}},
+  {"model":"accounts.user","pk":15,"fields":{"username":"paul.neagu","first_name":"Paul","last_name":"Neagu","cnp":"1991113517223","email":"paul.neagu@gmail.com","is_manager":false,"manager":4,"is_active":true}},
+  {"model":"accounts.user","pk":16,"fields":{"username":"irina.barbu","first_name":"Irina","last_name":"Barbu","cnp":"2870527295709","email":"irina.barbu@gmail.com","is_manager":false,"manager":1,"is_active":true}},
+  {"model":"accounts.user","pk":17,"fields":{"username":"george.florescu","first_name":"George","last_name":"Florescu","cnp":"1821207095933","email":"george.florescu@gmail.com","is_manager":false,"manager":2,"is_active":true}},
+  {"model":"accounts.user","pk":18,"fields":{"username":"carmen.mitrea","first_name":"Carmen","last_name":"Mitrea","cnp":"6030808257814","email":"carmen.mitrea@gmail.com","is_manager":false,"manager":3,"is_active":true}},
+  {"model":"accounts.user","pk":19,"fields":{"username":"tudor.sima","first_name":"Tudor","last_name":"Sima","cnp":"1900611247668","email":"tudor.sima@gmail.com","is_manager":false,"manager":4,"is_active":true}},
+  {"model":"accounts.user","pk":20,"fields":{"username":"ana.popa","first_name":"Ana","last_name":"Popa","cnp":"6051214155912","email":"ana.popa@gmail.com","is_manager":false,"manager":2,"is_active":true}}
+]

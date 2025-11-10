@@ -1,0 +1,262 @@
+[
+  {
+    "model": "payroll.payslip",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "period": 1,
+      "compensation": "20000.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "20000.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "period": 1,
+      "compensation": "17000.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "17000.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 3,
+    "fields": {
+      "user": 3,
+      "period": 1,
+      "compensation": "16000.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "1200.00",
+      "net_total": "17200.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 4,
+    "fields": {
+      "user": 4,
+      "period": 1,
+      "compensation": "15000.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "15000.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 5,
+    "fields": {
+      "user": 5,
+      "period": 1,
+      "compensation": "12000.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "1000.00",
+      "net_total": "13000.00",
+      "calculated_at": "2025-10-31T09:05:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 6,
+    "fields": {
+      "user": 6,
+      "period": 1,
+      "compensation": "11500.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "500.00",
+      "net_total": "12000.00",
+      "calculated_at": "2025-10-31T09:10:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 7,
+    "fields": {
+      "user": 7,
+      "period": 1,
+      "compensation": "11000.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "11000.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 8,
+    "fields": {
+      "user": 8,
+      "period": 1,
+      "compensation": "11000.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "11000.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 9,
+    "fields": {
+      "user": 9,
+      "period": 1,
+      "compensation": "10500.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "10500.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 10,
+    "fields": {
+      "user": 10,
+      "period": 1,
+      "compensation": "12000.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "750.00",
+      "net_total": "12750.00",
+      "calculated_at": "2025-10-31T09:15:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 11,
+    "fields": {
+      "user": 11,
+      "period": 1,
+      "compensation": "12000.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "12000.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 12,
+    "fields": {
+      "user": 12,
+      "period": 1,
+      "compensation": "11500.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "11500.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 13,
+    "fields": {
+      "user": 13,
+      "period": 1,
+      "compensation": "10000.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "10000.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 14,
+    "fields": {
+      "user": 14,
+      "period": 1,
+      "compensation": "11500.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "11500.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 15,
+    "fields": {
+      "user": 15,
+      "period": 1,
+      "compensation": "12000.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "12000.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 16,
+    "fields": {
+      "user": 16,
+      "period": 1,
+      "compensation": "11000.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "11000.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 17,
+    "fields": {
+      "user": 17,
+      "period": 1,
+      "compensation": "12500.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "12500.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 18,
+    "fields": {
+      "user": 18,
+      "period": 1,
+      "compensation": "11800.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "11800.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 19,
+    "fields": {
+      "user": 19,
+      "period": 1,
+      "compensation": "11200.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "11200.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  },
+  {
+    "model": "payroll.payslip",
+    "pk": 20,
+    "fields": {
+      "user": 20,
+      "period": 1,
+      "compensation": "10800.00",
+      "unpaid_deduction": "0.00",
+      "bonuses_total": "0.00",
+      "net_total": "10800.00",
+      "calculated_at": "2025-10-31T09:00:00Z"
+    }
+  }
+]

@@ -1,0 +1,6 @@
+[
+{"model":"payroll.bonus","pk":1,"fields":{"user":3,"period":1,"description":"Quarterly bonus","amount":"1200.00"}},
+{"model":"payroll.bonus","pk":2,"fields":{"user":5,"period":1,"description":"Referral bonus","amount":"1000.00"}},
+{"model":"payroll.bonus","pk":3,"fields":{"user":6,"period":1,"description":"Performance","amount":"500.00"}},
+{"model":"payroll.bonus","pk":4,"fields":{"user":10,"period":1,"description":"Overtime","amount":"750.00"}}
+]

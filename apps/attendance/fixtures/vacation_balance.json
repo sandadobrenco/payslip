@@ -1,0 +1,222 @@
+[
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 8,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 6,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 3,
+    "fields": {
+      "user": 3,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 5,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 4,
+    "fields": {
+      "user": 4,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 7,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 5,
+    "fields": {
+      "user": 5,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 4,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 6,
+    "fields": {
+      "user": 6,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 3,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 7,
+    "fields": {
+      "user": 7,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 9,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 8,
+    "fields": {
+      "user": 8,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 5,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 9,
+    "fields": {
+      "user": 9,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 6,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 10,
+    "fields": {
+      "user": 10,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 4,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 11,
+    "fields": {
+      "user": 11,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 7,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 12,
+    "fields": {
+      "user": 12,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 12,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 13,
+    "fields": {
+      "user": 13,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 3,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 14,
+    "fields": {
+      "user": 14,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 10,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 15,
+    "fields": {
+      "user": 15,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 5,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 16,
+    "fields": {
+      "user": 16,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 2,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 17,
+    "fields": {
+      "user": 17,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 4,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 18,
+    "fields": {
+      "user": 18,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 11,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 19,
+    "fields": {
+      "user": 19,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 6,
+      "days_carried_over": 0
+    }
+  },
+  {
+    "model": "attendance.vacationbalance",
+    "pk": 20,
+    "fields": {
+      "user": 20,
+      "year": 2025,
+      "total_days_allocated": 21,
+      "days_used": 3,
+      "days_carried_over": 0
+    }
+  }
+]

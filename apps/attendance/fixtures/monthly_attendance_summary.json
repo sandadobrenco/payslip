@@ -1,0 +1,282 @@
+[
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "period": 1,
+      "total_working_days": 22,
+      "total_vacation_days": 1,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "176.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "period": 1,
+      "total_working_days": 22,
+      "total_vacation_days": 1,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "176.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 3,
+    "fields": {
+      "user": 3,
+      "period": 1,
+      "total_working_days": 23,
+      "total_vacation_days": 0,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "184.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 4,
+    "fields": {
+      "user": 4,
+      "period": 1,
+      "total_working_days": 23,
+      "total_vacation_days": 0,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "184.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 5,
+    "fields": {
+      "user": 5,
+      "period": 1,
+      "total_working_days": 23,
+      "total_vacation_days": 0,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "184.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 6,
+    "fields": {
+      "user": 6,
+      "period": 1,
+      "total_working_days": 23,
+      "total_vacation_days": 0,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "184.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 7,
+    "fields": {
+      "user": 7,
+      "period": 1,
+      "total_working_days": 22,
+      "total_vacation_days": 1,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "176.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 8,
+    "fields": {
+      "user": 8,
+      "period": 1,
+      "total_working_days": 22,
+      "total_vacation_days": 1,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "176.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 9,
+    "fields": {
+      "user": 9,
+      "period": 1,
+      "total_working_days": 22,
+      "total_vacation_days": 1,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "176.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 10,
+    "fields": {
+      "user": 10,
+      "period": 1,
+      "total_working_days": 23,
+      "total_vacation_days": 0,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "184.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 11,
+    "fields": {
+      "user": 11,
+      "period": 1,
+      "total_working_days": 22,
+      "total_vacation_days": 1,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "176.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 12,
+    "fields": {
+      "user": 12,
+      "period": 1,
+      "total_working_days": 20,
+      "total_vacation_days": 3,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "160.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 13,
+    "fields": {
+      "user": 13,
+      "period": 1,
+      "total_working_days": 23,
+      "total_vacation_days": 0,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "184.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 14,
+    "fields": {
+      "user": 14,
+      "period": 1,
+      "total_working_days": 21,
+      "total_vacation_days": 2,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "168.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 15,
+    "fields": {
+      "user": 15,
+      "period": 1,
+      "total_working_days": 23,
+      "total_vacation_days": 0,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "184.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 16,
+    "fields": {
+      "user": 16,
+      "period": 1,
+      "total_working_days": 23,
+      "total_vacation_days": 0,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "184.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 17,
+    "fields": {
+      "user": 17,
+      "period": 1,
+      "total_working_days": 23,
+      "total_vacation_days": 0,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "184.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 18,
+    "fields": {
+      "user": 18,
+      "period": 1,
+      "total_working_days": 20,
+      "total_vacation_days": 3,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "160.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 19,
+    "fields": {
+      "user": 19,
+      "period": 1,
+      "total_working_days": 23,
+      "total_vacation_days": 0,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "184.00",
+      "public_holiday_days": 0
+    }
+  },
+  {
+    "model": "attendance.monthlyattendancesummary",
+    "pk": 20,
+    "fields": {
+      "user": 20,
+      "period": 1,
+      "total_working_days": 23,
+      "total_vacation_days": 0,
+      "total_sick_days": 0,
+      "total_unpaid_days": 0,
+      "total_hours_worked": "184.00",
+      "public_holiday_days": 0
+    }
+  }
+]

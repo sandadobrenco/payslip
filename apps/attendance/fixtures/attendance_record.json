@@ -1,0 +1,4602 @@
+[
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 2,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 3,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 4,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 5,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 6,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 7,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 8,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 9,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 10,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 11,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 12,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 13,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 14,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 15,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 16,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 17,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 18,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 19,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 20,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 21,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 22,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 23,
+    "fields": {
+      "user": 1,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 24,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 25,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 26,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 27,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 28,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 29,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 30,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 31,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 32,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 33,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 34,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 35,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 36,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 37,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 38,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 39,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 40,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 41,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 42,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 43,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 44,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 45,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 46,
+    "fields": {
+      "user": 2,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 47,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 48,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 49,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 50,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 51,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 52,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 53,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 54,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 55,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 56,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 57,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 58,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 59,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 60,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 61,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 62,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 63,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 64,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 65,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 66,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 67,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 68,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 69,
+    "fields": {
+      "user": 3,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 70,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 71,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 72,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 73,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 74,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 75,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 76,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 77,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 78,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 79,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 80,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 81,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 82,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 83,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 84,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 85,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 86,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 87,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 88,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 89,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 90,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 91,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 92,
+    "fields": {
+      "user": 4,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 93,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 94,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 95,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 96,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 97,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 98,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 99,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 100,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 101,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 102,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 103,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 104,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 105,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 106,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 107,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 108,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 109,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 110,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 111,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 112,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 113,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 114,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 115,
+    "fields": {
+      "user": 5,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 116,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 117,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 118,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 119,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 120,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 121,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 122,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 123,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 124,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 125,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 126,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 127,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 128,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 129,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 130,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 131,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 132,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 133,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 134,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 135,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 136,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 137,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 138,
+    "fields": {
+      "user": 6,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 139,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 140,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 141,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 142,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 143,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 144,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 145,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 146,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 147,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 148,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 149,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 150,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 151,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 152,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 153,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 154,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 155,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 156,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 157,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 158,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 159,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 160,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 161,
+    "fields": {
+      "user": 7,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 162,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 163,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 164,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 165,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 166,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-07",
+      "type": "VACATION",
+      "hours_worked": "0.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 167,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 168,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 169,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 170,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 171,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 172,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 173,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 174,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 175,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 176,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 177,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 178,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 179,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 180,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 181,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 182,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 183,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 184,
+    "fields": {
+      "user": 8,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 185,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 186,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 187,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 188,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 189,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 190,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 191,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 192,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 193,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 194,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 195,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-15",
+      "type": "VACATION",
+      "hours_worked": "0.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 196,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 197,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 198,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 199,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 200,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 201,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 202,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 203,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 204,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 205,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 206,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 207,
+    "fields": {
+      "user": 9,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 208,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 209,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 210,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 211,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 212,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 213,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 214,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 215,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 216,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 217,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 218,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 219,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 220,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 221,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 222,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 223,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 224,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 225,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 226,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 227,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 228,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 229,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 230,
+    "fields": {
+      "user": 10,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 231,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 232,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 233,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 234,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 235,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 236,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 237,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 238,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 239,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 240,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 241,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 242,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 243,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 244,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-20",
+      "type": "VACATION",
+      "hours_worked": "0.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 245,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 246,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 247,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 248,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 249,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 250,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 251,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 252,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 253,
+    "fields": {
+      "user": 11,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 254,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 255,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 256,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 257,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-06",
+      "type": "VACATION",
+      "hours_worked": "0.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 258,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-07",
+      "type": "VACATION",
+      "hours_worked": "0.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 259,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 260,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 261,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 262,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 263,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 264,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 265,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-16",
+      "type": "VACATION",
+      "hours_worked": "0.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 266,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 267,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 268,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 269,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 270,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 271,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 272,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 273,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 274,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 275,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 276,
+    "fields": {
+      "user": 12,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 277,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 278,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 279,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 280,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 281,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 282,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 283,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 284,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 285,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 286,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 287,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 288,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 289,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 290,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 291,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 292,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 293,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 294,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 295,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 296,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 297,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 298,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 299,
+    "fields": {
+      "user": 13,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 300,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 301,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 302,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 303,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 304,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 305,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 306,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 307,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-10",
+      "type": "VACATION",
+      "hours_worked": "0.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 308,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "0.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 309,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 310,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 311,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 312,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 313,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 314,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 315,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 316,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 317,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 318,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 319,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 320,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 321,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 322,
+    "fields": {
+      "user": 14,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 323,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 324,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 325,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 326,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 327,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 328,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 329,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 330,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 331,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 332,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 333,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 334,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 335,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 336,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 337,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 338,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 339,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 340,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 341,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 342,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 343,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 344,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 345,
+    "fields": {
+      "user": 15,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 346,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 347,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 348,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 349,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 350,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 351,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 352,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 353,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 354,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 355,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 356,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 357,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 358,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 359,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 360,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 361,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 362,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 363,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 364,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 365,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 366,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 367,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 368,
+    "fields": {
+      "user": 16,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 369,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 370,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 371,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 372,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 373,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 374,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 375,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 376,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 377,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 378,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 379,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 380,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 381,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 382,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 383,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 384,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 385,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 386,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 387,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 388,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 389,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 390,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 391,
+    "fields": {
+      "user": 17,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 392,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 393,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 394,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 395,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 396,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-07",
+      "type": "VACATION",
+      "hours_worked": "0.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 397,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 398,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 399,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-10",
+      "type": "VACATION",
+      "hours_worked": "0.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 400,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 401,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 402,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 403,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 404,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 405,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 406,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 407,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-22",
+      "type": "VACATION",
+      "hours_worked": "0.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 408,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 409,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 410,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 411,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 412,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 413,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 414,
+    "fields": {
+      "user": 18,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 415,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 416,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 417,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 418,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 419,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 420,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 421,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 422,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 423,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 424,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 425,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 426,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 427,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 428,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 429,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 430,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 431,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 432,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 433,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 434,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 435,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 436,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 437,
+    "fields": {
+      "user": 19,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 438,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-01",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 439,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-02",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 440,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-03",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 441,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-06",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 442,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-07",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 443,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-08",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 444,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-09",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 445,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-10",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 446,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-13",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 447,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-14",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 448,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-15",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 449,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-16",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 450,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-17",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 451,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-20",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 452,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-21",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 453,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-22",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 454,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-23",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 455,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-24",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 456,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-27",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 457,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-28",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 458,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-29",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 459,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-30",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  },
+  {
+    "model": "attendance.attendancerecord",
+    "pk": 460,
+    "fields": {
+      "user": 20,
+      "date": "2025-10-31",
+      "type": "WORKED",
+      "hours_worked": "8.00"
+    }
+  }
+]

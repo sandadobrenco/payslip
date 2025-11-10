@@ -1,0 +1,8 @@
+Hello {{ full_name }},
+
+Your payroll report for {{ period_label }} is ready.
+
+The detailed CSV report is attached to this email.
+
+Best regards,
+Payroll System

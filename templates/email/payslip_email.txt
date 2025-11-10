@@ -1,0 +1,10 @@
+Hello {{ full_name }},
+
+Your payslip for {{ period_label }} is now available.
+
+Please find the detailed payslip attached to this email.
+
+If you have any questions, please contact HR.
+
+Best regards,
+Payroll Team
